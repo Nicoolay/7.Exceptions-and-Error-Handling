@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\7.Exceptions and Error Handling\\task_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7574DBC7-7492-4B98-95F9-C2640C04D8F5}|task_1\\task_1.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\7.Exceptions and Error Handling\\task_1\\task_1\\task_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7574DBC7-7492-4B98-95F9-C2640C04D8F5}|task_1\\task_1.vcxproj|solutionrelative:task_1\\task_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task_1.cpp",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\7.Exceptions and Error Handling\\task_1\\task_1\\task_1.cpp",
+              "RelativeDocumentMoniker": "task_1\\task_1.cpp",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\7.Exceptions and Error Handling\\task_1\\task_1\\task_1.cpp",
+              "RelativeToolTip": "task_1\\task_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T00:58:52.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
